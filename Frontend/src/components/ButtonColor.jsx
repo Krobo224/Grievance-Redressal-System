@@ -1,0 +1,10 @@
+
+function ButtonColor(props){
+    return (
+        <div className={props.column}>
+            <button type="button" className="btn btn-primary">Primary</button>
+        </div>
+    );
+}
+
+export default ButtonColor;

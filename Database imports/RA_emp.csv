@@ -1,0 +1,5 @@
+_id,dept,email,name,pass,points
+EID123,Sports,abc@xyz.com,Ramesh,$2b$10$iXLFUsasdkkjasdkhhadjoJWgnHHJD9LxrVwVhCh0oasdasfsa,108
+EID256,Sports,email@gmail.com,Utkarsh,$2b$10$0yCDL8EUJZ2x/Qv9zW1kQOtY5d9NmF9KfaPwdZrVM4TwFNljzHHp.,23
+ABC,Sports,abc@gmail.com,Rajat,$2b$10$iXLFUsF/ffkgljZlvpWoq.cuoJWgnHHJD9LxrVwVhCh0oovqtZzZy,0
+EID756,Finance,xyz123@gmail.com,Ayush,$2b$10$DI/c.STFYjOY3Xml//Qqx.Zxb6IAlpOIpQUlCjlSqSp91C7rr/O0S,13

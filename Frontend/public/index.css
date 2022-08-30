@@ -1,0 +1,254 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+#ugc_logo{
+    display: inline-block
+}
+
+#heading{
+    display: inline-block;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: #000000;
+    font-size: 100rem;
+    padding-top: 2%;
+}
+
+#ne{
+    padding-left: 80%;
+}
+
+#about_heading{
+    font-family: 'Franklin Gothic Medium',
+        'Arial Narrow',
+        Arial,
+        sans-serif;
+    text-align: center;
+}
+
+#about_para{
+    font-family: 'Franklin Gothic Medium',
+    'Arial Narrow',
+        Arial,
+        sans-serif;
+    text-align: center;
+    color: rgb(99, 99, 99);
+}
+
+.header{
+    padding: 1.5%;
+}
+
+.researchCard {
+    background-color: rgb(221, 221, 221);
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    height: 1000 px;
+
+}
+
+.btn_know_more {
+    background-color: blue;
+    color: white;
+}
+
+.btn_ugc_info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer_t {
+    background-color: rgb(221, 221, 221);
+}
+
+.login_btn {
+    background-color: blue;
+    right: 0%;
+    border: none;
+    color: white;
+    width: 10rem;
+    height: 3rem;
+    border-radius: 4px;
+}
+
+.navbarColor{
+    background-color: rgb(221, 221, 221);
+}
+
+/* options */
+
+.option_btn{
+    display: block;
+    margin: 2%;
+    width: 80%;
+}
+
+.optiondivButton{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* forms */
+.in{
+    width: 40%;
+}
+
+.reg_form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form_btn{
+    width: 20%;
+    margin-top: -0.1%;
+}
+
+/* Login and Register Button for LogReg.jsx */
+.logreg_btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.divConfirm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40%;
+    font-size: 3rem;
+    font-weight: 600;
+}  
+.divConfirmLoginButton{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2%;
+    margin-bottom: 40%;
+}  
+
+.logreg_btn_text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2%;
+}
+
+.logreg_btn2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 2%;
+}
+
+.placement{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.singleCardWidth{
+    width: 80%;
+}
+/* Reg_log */
+
+.form_input{
+    width: 90%;
+    
+}
+
+.outer_block{
+    display: flex;
+    justify-content: center;
+}
+
+.blocks{
+    text-align: center;
+    border: 1px black solid;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 2%;
+    /* background-color: #c9c8c8; */
+}
+
+.reg_log_btn{
+    background-color: rgb(66, 66, 255);
+    border: none;
+    color: white;
+    width: 20%;
+    height: 30%;
+    font-size: 2rem;
+    border: 1% white solid;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.applyBorder{
+    padding: -3%;
+    margin: 4% 2%;
+    border: 1px solid #cccccc;
+    border-radius: 4%;
+}
+
+.toggle_btn{
+    padding-top: 1%;
+    margin-top: 1%;
+    margin-bottom: 3%
+}
+
+.hrForm, .hrForm2{
+    width: 50%;
+    display: inline-block;
+    color:rgb(30, 30, 196);
+    border-width: 3px 0 0 0;
+
+}
+
+.card_class {
+    background-color: rgb(221, 221, 221);
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+}
+
+.grievance{
+    background-color: white;
+    color: black;
+    font-family: 'sans-serif';
+    text-align: center;
+    width: 90%;
+    font-size: 1.1rem;
+    border-radius: 5rem;
+    margin: 3%;
+    padding: 1%;
+}
+
+.Card {
+    background-color: rgb(221, 221, 221);
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    height: 1000 px;
+
+}
+
+.centralizeLoader{
+    margin: 15%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
